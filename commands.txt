@@ -57,3 +57,7 @@
 
 *git log --oneline
 -Condensed version of the git log
+
+*clear
+- To make the terminal clear.
+
